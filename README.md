@@ -1,0 +1,1 @@
+This is smartTpants' first git project!
